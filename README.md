@@ -7,5 +7,4 @@ This repository contains the notebook used to explore the dataset, train models,
 
 ## Deployed system
 The deployed Streamlit decision-support app lives here:
-https://fraud-detection-decision-system.streamlit.app
-
+🔗 https://fraud-detection-decision-system.streamlit.app
